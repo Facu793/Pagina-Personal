@@ -5,7 +5,7 @@ Consiste en una página web personal desarrollada con HTML y CSS, y publicada on
 
 ## 🌐 Sitio web
 
-👉 [Ver mi página personal]([https://facu793.github.io/mi-pagina-personal/](https://facu793.github.io/Pagina-Personal/))
+👉 [Ver mi página personal](https://facu793.github.io/Pagina-Personal/)
 
 ## 🛠️ Tecnologías utilizadas
 
