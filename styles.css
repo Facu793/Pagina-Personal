@@ -248,7 +248,7 @@ footer {
     nav ul {
         flex-direction: column;
         align-items: center;
-        gap: 1.5rem;
+        gap: 0.5rem;
         padding: 0;
     }
     nav li {
@@ -257,12 +257,11 @@ footer {
         justify-content: center;
     }
     nav a {
-        width: 90vw;
-        text-align: center;
-        font-size: 1.1rem;
-        padding: 1rem 0;
+        width: 70vw;
+        font-size: 1rem;
+        padding: 0.5rem 0;
     }
     section {
-        padding: 2rem 0.5rem;
+        padding: 1.2rem 0.5rem;
     }
 } 
