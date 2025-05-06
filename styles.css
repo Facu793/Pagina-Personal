@@ -102,6 +102,8 @@ nav a {
     font-family: var(--font-secondary);
     font-weight: 500;
     letter-spacing: 0.5px;
+    text-align: center;
+    display: block;
 }
 
 nav a:hover {
